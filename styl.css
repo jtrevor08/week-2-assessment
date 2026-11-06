@@ -27,6 +27,12 @@ body>img {
     align-items: center;
 
 }
+.profile-card{
+    background-color: rgb(68, 66, 66);
+    padding: 50px;
+    margin: 10px;
+    border-radius: 10px;
+}
 .profile-card > h3{
     color: hsl(75, 94%, 57%);
     font-size: 14px;
@@ -63,7 +69,6 @@ body>img {
     background-color: gray;
     color: black;
     text-align: center;
-    margin:10px;
-    border:2px solid black    
+    margin:10px;    
 }
 
