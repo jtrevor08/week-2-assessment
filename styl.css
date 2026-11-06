@@ -49,13 +49,14 @@ body>img {
     padding: 14px;
     border-radius: 8px;
     font-size: 14px;
-    font-weight:400, 600, 700;
+    font-weight:bold;
 }
 
 .social-links a:hover{
     background-color: hsl(75, 94%, 57%);
     color: #141414;
     margin: 2px;
+    font-weight: 400, 600, 700;
 
 }
 .btn{
